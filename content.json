@@ -1,1 +1,256 @@
-
+{
+  "banners": [
+    {
+      "title": "Знижка на кулінарію по Вівторках",
+      "imageUrl": "https://image.com/dfgnkgkfgjgkj.jpg"
+    },
+    {
+      "title": "Знижка на кулінарію по Вівторках",
+      "imageUrl": "https://image.com/dfgnkgkfgjgkj.jpg"
+    },
+    {
+      "title": "Знижка на кулінарію по Вівторках",
+      "imageUrl": "https://image.com/dfgnkgkfgjgkj.jpg"
+    },
+    {
+      "title": "Знижка на кулінарію по Вівторках",
+      "imageUrl": "https://image.com/dfgnkddgkfgjgkj.jpg"
+    },
+    {
+      "title": "Знижка на кулінарію по Вівторках",
+      "imageUrl": "https://image.com/dfgnkgkfgjgkj.jpg"
+    }
+  ],
+  "brends": [
+    {
+      "title": "Сільпо",
+      "descritpion": "Еко маркет",
+      "imageUrl": "https://image.com/selpo.jpg",
+      "count": 33,
+      "promotions": [
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "АТБ",
+      "descritpion": "Еко маркет",
+      "imageUrl": "https://image.com/amene.jpg",
+      "count": 43,
+      "promotions": [
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Billa",
+      "descritpion": "Еко маркет",
+      "imageUrl": "https://image.com/ubila.jpg",
+      "count": 12,
+      "promotions": [
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Metro",
+      "descritpion": "Еко маркет",
+      "imageUrl": "https://image.com/pecherka.jpg",
+      "count": 13,
+      "promotions": [
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Ашан",
+      "descritpion": "Еко маркет",
+      "imageUrl": "https://image.com/kazahstan.jpg",
+      "count": 33,
+      "promotions": [
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Фора",
+      "descritpion": "Еко маркет",
+      "imageUrl": "https://image.com/selpo.jpg",
+      "count": 33,
+      "promotions": [
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Новус",
+      "descritpion": "Еко маркет",
+      "imageUrl": "https://image.com/selpo.jpg",
+      "count": 33,
+      "promotions": [
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Швабрус",
+      "descritpion": "Еко маркет",
+      "imageUrl": "https://image.com/selpo.jpg",
+      "count": 33,
+      "promotions": [
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Барвінок",
+      "descritpion": "Еко маркет",
+      "imageUrl": "https://image.com/selpo.jpg",
+      "count": 33,
+      "promotions": [
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Ватсонс",
+      "descritpion": "Еко маркет",
+      "imageUrl": "https://image.com/selpo.jpg",
+      "count": 33,
+      "promotions": [
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        },
+        {
+          "title": "Просто бомбезна пропозиція",
+          "descritpion": "31 окт. - 13 ноя. (еще 20 дн.)",
+          "imageUrl": "https://image.com/selpo.jpg"
+        }
+      ]
+    }
+  ]
+}
